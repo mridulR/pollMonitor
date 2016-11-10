@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PollMonitor</string>
+    <string name="action_settings">Settings</string>
+</resources>
